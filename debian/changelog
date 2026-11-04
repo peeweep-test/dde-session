@@ -1,3 +1,10 @@
+dde-session (6.1.114) unstable; urgency=medium
+
+  * fix: clean up both LangSelector paths on logout
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 13:38:27 +0800
+
 dde-session (2.0.35) unstable; urgency=medium
 
   * fix: restore the power mode from the active session only
