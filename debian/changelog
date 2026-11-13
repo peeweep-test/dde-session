@@ -1,3 +1,9 @@
+dde-session (6.8.1) unstable; urgency=medium
+
+  * Release 6.8.1
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 16:51:09 +0800
+
 dde-session (6.8.0) unstable; urgency=medium
 
   * fix: clean up both LangSelector paths on logout
